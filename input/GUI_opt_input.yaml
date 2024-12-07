@@ -1,0 +1,37 @@
+# analysis setting
+mode: offDesign
+# fixed parameters
+rtip: 61
+rhub: 17
+xin: 0
+xout: 33
+targetKw: 0.18
+# sweep parameters
+rotationalSpeed: [22000,30000,3]
+# design parameters
+exitAngle1: 36
+exitAngle2: 31
+exitAngle3: 42
+exitAngle4: 45
+exitAngle5: 50
+camAngle1: 12
+camAngle2: 12
+camAngle3: 12
+camAngle4: 12
+camAngle5: 12
+xle1: 10
+xle2: 7
+xle3: 6.5
+xle4: 8
+xle5: 16
+xte1: 20.0
+xte2: 20.0
+xte3: 20.0
+xte4: 20.0
+xte5: 20.0
+lean1: 1
+lean2: -0.5
+lean3: 2.5
+lean4: 3.5
+lean5: -0.5
+bladeNumber: 11
